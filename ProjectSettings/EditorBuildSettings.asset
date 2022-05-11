@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/tops.unity
+    guid: 2234e0b33fcdf55459ee88501e7842f5
+  - enabled: 1
+    path: Assets/Scenes/accessory.unity
+    guid: 90953ca1b1a16e146b226d6662a7be3d
+  - enabled: 1
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/home.unity
+    guid: 4b8627eaf1bf37a4db8103d12766b98f
+  - enabled: 1
+    path: Assets/Scenes/game.unity
+    guid: 5b2e99c7d414dd445908e013c2ab4427
+  - enabled: 1
+    path: Assets/Scenes/clear.unity
+    guid: e8c8d12704e7cda41a70ad0729319aca
+  - enabled: 1
+    path: Assets/Scenes/game_home.unity
+    guid: 6e81b7575c944554094813f889eee430
+  - enabled: 1
+    path: Assets/Scenes/kisekae.unity
+    guid: a833419f48a39f8439f604ad8d4f8387
+  - enabled: 1
+    path: Assets/Scenes/shop.unity
+    guid: 2a736101a1f2f9d40acdc9af094a0d18
+  - enabled: 1
+    path: Assets/Scenes/character.unity
+    guid: 325ab946a178f98468fd13f7c09b4e2b
+  - enabled: 1
+    path: Assets/Scenes/cloth.unity
+    guid: b0d2e2243c68437418a8dabdac94e9db
+  - enabled: 1
+    path: Assets/Scenes/haikei.unity
+    guid: b10c5e6296d82bf4cb28cbfab7445501
+  m_configObjects: {}
